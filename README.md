@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=janakbist18&label=Profile%20views&color=0e75b6&style=flat" alt="janakbist18" /> </p>
 
-- 👨‍💻 All of my projects are available at [[janakbist99.com.np](https://www.janakbist99.com.np/)](janakbist99.com.np)
+- 👨‍💻 All of my projects are available at [[janakbist99.com.np](https://www.janakbist99.com.np/)]
 
 - 📫 How to reach me **janakbist64@gmail.com**
 
